@@ -1,0 +1,55 @@
+section {
+	width: 100%;
+	margin-bottom: 250px;
+	}
+
+section #section_wrap {
+	margin: 20px 0;
+	}
+
+section #section_wrap .word {
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+	color: #1d79bf;
+	padding: 10px 0;
+	font-weight: bolder;
+	}
+
+section #section_wrap .now_datetime {
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 7px 0;
+	border-bottom: 1px solid #ccc;
+	}
+
+section #section_wrap .diary_write {
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 30px;
+	}
+
+section #section_wrap .diary_write input[name='d_txt'] {
+	width: 600px;
+	padding: 15px;
+	border: 2px solid #2bf091;
+	border-radius: 30px;
+	margin: 5px 0;
+	}
+
+section #section_wrap .diary_write input[name='d_img_file'] {
+	width: 500px;
+	padding: 13px;
+	margin: 5px 0;
+	border: 1px solid #ccc;
+	}
+	
+section #section_wrap .diary_write input[type='button'],
+section #section_wrap .diary_write input[type='reset'] {
+	width: 261px;
+	padding: 15px;
+	margin: 5px 0;
+	cursor: pointer;
+	}

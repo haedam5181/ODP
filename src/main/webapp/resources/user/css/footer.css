@@ -1,0 +1,16 @@
+footer {
+	width: 100%;
+	
+	}
+	
+footer #footer_wrap {
+	background-color: #525252;
+	}
+
+footer #footer_wrap .office_info {
+	text-align: center;
+	height: 80px;
+	line-height: 80px;
+	color: #f7f7f7;
+	font-size: .9em;
+	}

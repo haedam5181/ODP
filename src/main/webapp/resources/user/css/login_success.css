@@ -1,0 +1,28 @@
+section {
+	width: 100%;
+	}
+
+section #section_wrap {
+	margin: 20px 0;
+	}
+
+section #section_wrap .word {
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+	color: #1d79bf;
+	padding: 10px 0;
+	font-weight: bolder;
+	}
+
+section #section_wrap .diary_list {
+	width: 700px;
+	margin: 0 auto;
+	padding: 10px 0;
+	text-align: center;
+	}
+
+section #section_wrap .diary_list a {
+	text-decoration: underline;
+	}
+	

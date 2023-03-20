@@ -1,0 +1,66 @@
+section {
+	width: 100%;
+	margin-bottom: 250px;
+	}
+
+section #section_wrap {
+	margin: 20px 0;
+	}
+
+section #section_wrap .word {
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+	color: #1d79bf;
+	padding: 10px 0;
+	font-weight: bolder;
+	}
+
+section #section_wrap .diary_modify {
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 30px;
+	}
+
+section #section_wrap .diary_modify input[name='d_txt'] {
+	width: 600px;
+	padding: 15px;
+	border: 2px solid #2bf091;
+	border-radius: 30px;
+	margin: 5px 0;
+	}
+
+section #section_wrap .diary_modify input[name='d_img_file'] {
+	width: 500px;
+	padding: 13px;
+	margin: 5px 0;
+	border: 1px solid #ccc;
+	display: none;
+	}
+
+section #section_wrap .diary_modify img.thumnail {
+	max-width: 400px;
+	}
+
+section #section_wrap .diary_modify a.thumnail_delete {
+	display: inline-block;
+	margin: 5px;
+	padding: 5px 10px;
+	background-color: #2a8ce8;
+	color: #fff;
+	font-weight: bolder;
+	border-radius: 5px;
+	}
+
+section #section_wrap .diary_modify a.thumnail_delete:hover {
+	background-color: #45a1f7;
+	}
+
+section #section_wrap .diary_modify input[type='button'],
+section #section_wrap .diary_modify input[type='reset'] {
+	width: 261px;
+	padding: 15px;
+	margin: 5px 0;
+	cursor: pointer;
+	}

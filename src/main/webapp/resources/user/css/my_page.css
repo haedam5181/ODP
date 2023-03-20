@@ -1,0 +1,59 @@
+section {
+	width: 100%;
+	}
+
+section #section_wrap {
+	margin: 20px 0;
+	}
+
+section #section_wrap .word {
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+	color: #1d79bf;
+	padding: 10px 0;
+	font-weight: bolder;
+	}
+
+section #section_wrap .my_page {
+	width: 700px;
+	margin: 0 auto;
+	padding: 10px;
+	}
+
+section #section_wrap .my_page table {
+	width: 100%;
+	border-collapse: collapse;
+	}
+
+section #section_wrap .my_page table tr {
+	
+	}
+
+section #section_wrap .my_page table tr td {
+	border: 1px solid #ccc;
+	padding: 15px 10px;
+	}
+
+section #section_wrap .my_page table tr td:nth-child(1) {
+	text-align: right;
+	font-weight: bolder;
+	width: 150px;
+	background-color: #f2f2f2;
+	}
+	
+section #section_wrap .my_page table tr td input[type='text'] {
+	padding: 7px;
+	width: 300px;
+	}
+
+section #section_wrap .my_page table tr:last-child td {
+	background-color: #fff;
+	text-align: center;
+	}
+
+section #section_wrap .my_page table tr:last-child td input {
+	padding: 10px 15px;
+	font-weight: bolder;
+	cursor: pointer;
+	}
